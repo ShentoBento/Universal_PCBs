@@ -12881,7 +12881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e14f24f-e9a6-49b2-98ee-925fe2ae7c75")
-		(property "Reference" "KC_RSFT_2.75u"
+		(property "Reference" "KC_RSFT_2.75u1"
 			(at 240.03 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -12945,7 +12945,7 @@
 		(instances
 			(project "Uni60_Solder"
 				(path "/e464f1d1-4c01-4fad-a203-20008a0f30b7"
-					(reference "KC_RSFT_2.75u")
+					(reference "KC_RSFT_2.75u1")
 					(unit 1)
 				)
 			)
