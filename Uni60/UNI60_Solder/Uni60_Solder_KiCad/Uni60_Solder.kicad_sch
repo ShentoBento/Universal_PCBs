@@ -3646,6 +3646,12 @@
 		(uuid "0f5d9d85-4277-47c4-8d40-7f45e4817644")
 	)
 	(junction
+		(at 238.76 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10ffa305-4542-4e32-a431-4b6c42fb1945")
+	)
+	(junction
 		(at 147.32 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3752,6 +3758,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d42619c-9925-4e8c-8482-a1b62f9caf5e")
+	)
+	(junction
+		(at 182.88 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e6a9a4b-ffa4-4ad7-99b8-b0ed2259c4ac")
 	)
 	(junction
 		(at 111.76 92.71)
@@ -4100,6 +4112,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96d2356c-eece-417e-8214-f353779d33b1")
+	)
+	(junction
+		(at 187.96 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98397efb-9561-4d72-9e9c-ff2d841c115a")
 	)
 	(junction
 		(at 162.56 39.37)
@@ -5531,6 +5549,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 97.79) (xy 242.57 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "808e3bf3-a7b6-4f11-a3f8-366dbeffc0af")
+	)
+	(wire
+		(pts
 			(xy 187.96 105.41) (xy 198.12 105.41)
 		)
 		(stroke
@@ -5578,6 +5606,26 @@
 			(type default)
 		)
 		(uuid "87da6caf-3441-496d-84e0-7a10a622c037")
+	)
+	(wire
+		(pts
+			(xy 233.68 92.71) (xy 237.49 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b0f8c04-20f0-4582-bcfb-f484991d1461")
+	)
+	(wire
+		(pts
+			(xy 187.96 115.57) (xy 191.77 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b81dcae-43ea-4a50-abf1-3646eb860ea2")
 	)
 	(wire
 		(pts
@@ -6368,6 +6416,16 @@
 			(type default)
 		)
 		(uuid "f569ff15-644f-42bb-b9f3-ae0fc72bdf2f")
+	)
+	(wire
+		(pts
+			(xy 182.88 110.49) (xy 186.69 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6abf6b8-0c63-4d31-8251-776617583940")
 	)
 	(wire
 		(pts
@@ -12813,6 +12871,88 @@
 	)
 	(symbol
 		(lib_id "shentobento:MX_SW_solder")
+		(at 240.03 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e14f24f-e9a6-49b2-98ee-925fe2ae7c75")
+		(property "Reference" "KC_RSFT_2.75u"
+			(at 240.03 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 240.03 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "shentobento:SW_MX_1u"
+			(at 240.03 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 240.03 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bdb0974f-7733-4261-852c-30ab1740baf2")
+		)
+		(pin "2"
+			(uuid "e78e7578-b0c6-477e-9d5e-97cf4ff0ef24")
+		)
+		(instances
+			(project "Uni60_Solder"
+				(path "/e464f1d1-4c01-4fad-a203-20008a0f30b7"
+					(reference "KC_RSFT_2.75u")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "shentobento:MX_SW_solder")
 		(at 252.73 59.69 0)
 		(unit 1)
 		(body_style 1)
@@ -16182,6 +16322,88 @@
 			(project "Uni60_Solder"
 				(path "/e464f1d1-4c01-4fad-a203-20008a0f30b7"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "shentobento:MX_SW_solder")
+		(at 189.23 113.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a290f62-b7aa-4374-88b6-8b5183102774")
+		(property "Reference" "KC_SPC_6.25U1"
+			(at 189.23 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MX_SW_solder"
+			(at 189.23 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "shentobento:SW_MX_1u"
+			(at 189.23 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 189.23 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d3024d19-866f-4542-a684-6ef4af02bd96")
+		)
+		(pin "2"
+			(uuid "dd5c3dc1-a4a5-4b07-8704-ccb1a325302c")
+		)
+		(instances
+			(project "Uni60_Solder"
+				(path "/e464f1d1-4c01-4fad-a203-20008a0f30b7"
+					(reference "KC_SPC_6.25U1")
 					(unit 1)
 				)
 			)
