@@ -20559,7 +20559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical"
+		(property "Footprint" "shentobento:Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical"
 			(at 82.55 186.69 0)
 			(hide yes)
 			(show_name no)

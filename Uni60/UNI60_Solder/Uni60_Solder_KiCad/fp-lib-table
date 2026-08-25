@@ -1,4 +1,6 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "shentobento") (type "KiCad") (uri "C:/Users/shent/Documents/Github Repos/Universal_PCBs/shentobento_kicad_library/shentobento.pretty") (options "") (descr ""))
+	(lib (name "files") (type "KiCad") (uri "C:/Users/shent/Documents/Github Repos/Universal_PCBs/Uni60/UNI60_Solder/files.pretty") (options "") (descr ""))
+	(lib (name "shentobento") (type "KiCad") (uri "C:/Users/shent/Documents/Github Repos/Universal_PCBs/shentobento_kicad_library/shentobento.pretty") (options "") (descr ""))
 )
