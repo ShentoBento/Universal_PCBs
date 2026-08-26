@@ -3622,12 +3622,6 @@
 		(uuid "0b052ffa-9864-4410-92e6-c23db92b3777")
 	)
 	(junction
-		(at 177.8 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d6005bb-313f-4eef-bf62-4ffe5d53d06e")
-	)
-	(junction
 		(at 223.52 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3760,12 +3754,6 @@
 		(uuid "2d42619c-9925-4e8c-8482-a1b62f9caf5e")
 	)
 	(junction
-		(at 182.88 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e6a9a4b-ffa4-4ad7-99b8-b0ed2259c4ac")
-	)
-	(junction
 		(at 111.76 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3824,6 +3812,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "425793a6-33e7-44b1-a45b-d4ba288e2669")
+	)
+	(junction
+		(at 182.88 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42d7c951-caca-40b3-8afb-a4ca2dd85fcb")
 	)
 	(junction
 		(at 172.72 74.93)
@@ -3922,16 +3916,16 @@
 		(uuid "62b3f29f-b862-41e7-9b80-8cd9569d6c05")
 	)
 	(junction
-		(at 167.64 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6464a2e8-8298-436f-8e45-cfd572c52fc1")
-	)
-	(junction
 		(at 111.76 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6480a371-90d3-441d-aaf4-466591dbcfff")
+	)
+	(junction
+		(at 187.96 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "667d596c-b269-4f76-bf8d-98493447de9d")
 	)
 	(junction
 		(at 238.76 123.19)
@@ -3962,6 +3956,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c81500d-4534-4fd7-a162-c8dffa223e4d")
+	)
+	(junction
+		(at 182.88 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c9d28ee-8499-4e76-9037-4671d09235cc")
 	)
 	(junction
 		(at 203.2 74.93)
@@ -4000,12 +4000,6 @@
 		(uuid "7b25782e-a63d-4633-bdd6-815a9ce0bf03")
 	)
 	(junction
-		(at 172.72 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7c49b260-1511-49dd-a03b-205c52795d7f")
-	)
-	(junction
 		(at 228.6 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4016,6 +4010,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f8dd859-b3be-44a2-bc63-e988755a9640")
+	)
+	(junction
+		(at 172.72 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "809707c7-4af3-41f2-a7e9-0f5d6294bb6f")
 	)
 	(junction
 		(at 208.28 69.85)
@@ -4030,10 +4030,10 @@
 		(uuid "810fa8e7-b5b8-45dc-a2f0-5680f151bd64")
 	)
 	(junction
-		(at 182.88 115.57)
+		(at 187.96 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "84e25bf7-51b2-4db2-9c44-111f3aaa168b")
+		(uuid "82de0149-382e-44ac-8c67-92d357db1d1d")
 	)
 	(junction
 		(at 198.12 52.07)
@@ -4112,12 +4112,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96d2356c-eece-417e-8214-f353779d33b1")
-	)
-	(junction
-		(at 187.96 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "98397efb-9561-4d72-9e9c-ff2d841c115a")
 	)
 	(junction
 		(at 162.56 39.37)
@@ -4384,6 +4378,12 @@
 		(uuid "e1ed66f2-e15b-4f17-8b26-6f8d6698e9ef")
 	)
 	(junction
+		(at 177.8 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e22300d1-7383-4449-802a-ae38dd7631d2")
+	)
+	(junction
 		(at 152.4 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4400,12 +4400,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eae7a8fe-e14f-40aa-9262-400870a40dd2")
-	)
-	(junction
-		(at 177.8 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ebfdd6df-75f5-411c-af65-19c828871045")
 	)
 	(junction
 		(at 238.76 52.07)
@@ -4462,12 +4456,6 @@
 		(uuid "f809ce4b-1379-4701-9e29-e690e00f0b1c")
 	)
 	(junction
-		(at 162.56 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8ac7453-ff54-4a86-99e5-99cb703ace49")
-	)
-	(junction
 		(at 157.48 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4506,6 +4494,16 @@
 			(type default)
 		)
 		(uuid "0007a7aa-5a48-44a6-8824-f1c99d60bb8d")
+	)
+	(wire
+		(pts
+			(xy 173.99 115.57) (xy 177.8 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "004fb31b-88bc-4ee2-a918-abc2870b3339")
 	)
 	(wire
 		(pts
@@ -4679,6 +4677,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 115.57) (xy 191.77 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d398b54-65a1-44c3-8263-4a35066ad681")
+	)
+	(wire
+		(pts
 			(xy 167.64 52.07) (xy 177.8 52.07)
 		)
 		(stroke
@@ -4806,16 +4814,6 @@
 			(type default)
 		)
 		(uuid "29878c4c-2ee6-4cf1-9b83-715261f55842")
-	)
-	(wire
-		(pts
-			(xy 182.88 115.57) (xy 187.96 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2beac87d-c769-4345-b771-aaf8493a80c2")
 	)
 	(wire
 		(pts
@@ -4986,16 +4984,6 @@
 			(type default)
 		)
 		(uuid "41d617c7-597f-488e-87bf-384efafd5bd2")
-	)
-	(wire
-		(pts
-			(xy 177.8 110.49) (xy 182.88 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "421f0283-89f4-4e54-b2d7-9b44db86ad61")
 	)
 	(wire
 		(pts
@@ -5219,16 +5207,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 123.19) (xy 177.8 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5dbc33bb-5181-450b-a7ac-f6989da545c7")
-	)
-	(wire
-		(pts
 			(xy 137.16 115.57) (xy 140.97 115.57)
 		)
 		(stroke
@@ -5369,7 +5347,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 110.49) (xy 177.8 110.49)
+			(xy 172.72 110.49) (xy 176.53 110.49)
 		)
 		(stroke
 			(width 0)
@@ -5619,16 +5597,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 92.71) (xy 162.56 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87da6caf-3441-496d-84e0-7a10a622c037")
-	)
-	(wire
-		(pts
 			(xy 233.68 92.71) (xy 237.49 92.71)
 		)
 		(stroke
@@ -5639,16 +5607,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 115.57) (xy 191.77 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b81dcae-43ea-4a50-abf1-3646eb860ea2")
-	)
-	(wire
-		(pts
 			(xy 121.92 74.93) (xy 121.92 92.71)
 		)
 		(stroke
@@ -5656,6 +5614,16 @@
 			(type default)
 		)
 		(uuid "8dbb88e8-f35e-4702-bbf2-0d25f9477d16")
+	)
+	(wire
+		(pts
+			(xy 182.88 110.49) (xy 186.69 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8df6b5af-3bd3-47ff-a3f2-0b3e835e8a3e")
 	)
 	(wire
 		(pts
@@ -5929,7 +5897,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 123.19) (xy 218.44 123.19)
+			(xy 177.8 123.19) (xy 187.96 123.19)
 		)
 		(stroke
 			(width 0)
@@ -5946,6 +5914,16 @@
 			(type default)
 		)
 		(uuid "b4073559-8268-4254-91d3-d1c5318b5118")
+	)
+	(wire
+		(pts
+			(xy 168.91 110.49) (xy 172.72 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b51b5921-179a-40b3-9f6f-7f7bd81f1da9")
 	)
 	(wire
 		(pts
@@ -6049,6 +6027,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 92.71) (xy 182.88 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c22c92d8-a74d-4240-888e-53105493d584")
+	)
+	(wire
+		(pts
 			(xy 38.1 25.4) (xy 38.1 29.21)
 		)
 		(stroke
@@ -6089,7 +6077,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 115.57) (xy 182.88 115.57)
+			(xy 177.8 115.57) (xy 181.61 115.57)
 		)
 		(stroke
 			(width 0)
@@ -6129,7 +6117,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 123.19) (xy 167.64 123.19)
+			(xy 147.32 123.19) (xy 177.8 123.19)
 		)
 		(stroke
 			(width 0)
@@ -6469,13 +6457,13 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 110.49) (xy 186.69 110.49)
+			(xy 187.96 123.19) (xy 218.44 123.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f6abf6b8-0c63-4d31-8251-776617583940")
+		(uuid "f84a7780-283e-41c0-bbdf-166d453dd647")
 	)
 	(wire
 		(pts
@@ -10656,7 +10644,7 @@
 	)
 	(symbol
 		(lib_id "shentobento:MX_SW_solder")
-		(at 180.34 113.03 0)
+		(at 185.42 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10667,8 +10655,7 @@
 		(fields_autoplaced yes)
 		(uuid "31afd883-266a-45c8-82b6-309e4a12773a")
 		(property "Reference" "KC_SPC_2.75U1"
-			(at 180.34 107.95 0)
-			(hide yes)
+			(at 185.42 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10678,7 +10665,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 180.34 107.95 0)
+			(at 185.42 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10689,7 +10676,7 @@
 			)
 		)
 		(property "Footprint" "shentobento:SW_MX_1u"
-			(at 180.34 113.03 0)
+			(at 185.42 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10700,7 +10687,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 113.03 0)
+			(at 185.42 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10711,7 +10698,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 180.34 113.03 0)
+			(at 185.42 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13276,7 +13263,7 @@
 	)
 	(symbol
 		(lib_id "shentobento:MX_SW_solder")
-		(at 165.1 113.03 0)
+		(at 171.45 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13287,7 +13274,7 @@
 		(fields_autoplaced yes)
 		(uuid "4ab8922d-e254-4129-a3cd-283c3defb80d")
 		(property "Reference" "KC_SPLIT_FN_1.25U1"
-			(at 165.1 107.95 0)
+			(at 171.45 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13297,7 +13284,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 165.1 107.95 0)
+			(at 171.45 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13308,7 +13295,7 @@
 			)
 		)
 		(property "Footprint" "shentobento:SW_MX_1.25u"
-			(at 165.1 113.03 0)
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13319,7 +13306,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 113.03 0)
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13330,7 +13317,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 165.1 113.03 0)
+			(at 171.45 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14603,7 +14590,7 @@
 	)
 	(symbol
 		(lib_id "shentobento:MX_SW_solder")
-		(at 185.42 113.03 0)
+		(at 189.23 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14614,7 +14601,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f2eeeef-7b10-46ad-a611-6f231496f342")
 		(property "Reference" "KC_SPC_3U1"
-			(at 185.42 107.95 0)
+			(at 189.23 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14625,7 +14612,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 185.42 107.95 0)
+			(at 189.23 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14636,7 +14623,7 @@
 			)
 		)
 		(property "Footprint" "shentobento:SW_MX_1u"
-			(at 185.42 113.03 0)
+			(at 189.23 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14647,7 +14634,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 113.03 0)
+			(at 189.23 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14658,7 +14645,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 185.42 113.03 0)
+			(at 189.23 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16060,110 +16047,6 @@
 		)
 	)
 	(symbol
-		(lib_id "shentobento:1N4148")
-		(at 167.64 119.38 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72814771-5a86-4dcb-bae1-a1804cb55549")
-		(property "Reference" "D71"
-			(at 170.18 118.1099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 170.18 120.6499 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "shentobento:D_SOD-123"
-			(at 167.64 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 167.64 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 167.64 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 167.64 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 167.64 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e5bcebcc-7822-4c5c-b555-c8e8349182a4")
-		)
-		(pin "1"
-			(uuid "94bd3a94-b80c-4e19-b97e-8f160f20aeaf")
-		)
-		(instances
-			(project "Uni60_Solder"
-				(path "/e464f1d1-4c01-4fad-a203-20008a0f30b7"
-					(reference "D71")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 58.42 173.99 270)
 		(unit 1)
@@ -17052,7 +16935,7 @@
 	)
 	(symbol
 		(lib_id "shentobento:MX_SW_solder")
-		(at 189.23 113.03 0)
+		(at 179.07 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17063,7 +16946,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a290f62-b7aa-4374-88b6-8b5183102774")
 		(property "Reference" "KC_SPC_6.25U1"
-			(at 189.23 107.95 0)
+			(at 179.07 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17074,7 +16957,7 @@
 			)
 		)
 		(property "Value" "MX_SW_solder"
-			(at 189.23 107.95 0)
+			(at 179.07 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17085,7 +16968,7 @@
 			)
 		)
 		(property "Footprint" "shentobento:SW_MX_1u"
-			(at 189.23 113.03 0)
+			(at 179.07 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17096,7 +16979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 113.03 0)
+			(at 179.07 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17107,7 +16990,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 189.23 113.03 0)
+			(at 179.07 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18973,6 +18856,110 @@
 			(project "Uni60_Solder"
 				(path "/e464f1d1-4c01-4fad-a203-20008a0f30b7"
 					(reference "KC_N1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "shentobento:1N4148")
+		(at 187.96 119.38 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "924e50ba-94b1-4e2e-8e7a-c05d72a8781c")
+		(property "Reference" "D73"
+			(at 190.5 118.1099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 190.5 120.6499 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "shentobento:D_SOD-123"
+			(at 187.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 187.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100V 0.15A standard switching diode, DO-35"
+			(at 187.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 187.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 187.96 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "954744fb-b6c0-4ba4-a22e-06fe6f312ddb")
+		)
+		(pin "1"
+			(uuid "13327285-0820-42dd-8ddb-3546bbbaa03c")
+		)
+		(instances
+			(project "Uni60_Solder"
+				(path "/e464f1d1-4c01-4fad-a203-20008a0f30b7"
+					(reference "D73")
 					(unit 1)
 				)
 			)
