@@ -1,26 +1,33 @@
-# Velvet Pro Solder PCB
+# Uni60 Solder PCB
 
-<img src="images\VP_Solder_Front_Render.png" width="800">
+<img src="files\Render_Front.png" width="800">
 
-A solder PCB designed to fit the Velvet Pro keyboard by Ampersandy.
+A solder PCB designed to fit most JST-dependent 60% Keyboards.
 
-Firmware: https://github.com/ShentoBento/Velvet-Pro-PCB-Firmware
+Firmware: https://github.com/ShentoBento/Universal_PCBs_Firmware/tree/main/Uni60/Solder
 
 ---
 
 ## Specs
 
+<img src="files\Layout_Options.png" width="600">
+
 - Solder
 - MCU: STM32F072CBTx
-- JST SH 4-pin connector (for C3 Unified Daughterboards)
-- Fixed ANSI enter
-- Fixed 7u bottom row
-- Fixed split right shift
-- Stepped or full caps lock
-- Split or full backspace
+- 5 JST SH connector positions
+- 1 molex pico ezmate connector
+- ISO support
+- Split backspace
+- Split right shift
+- Split left shift
+- Stepped/full caps
+- 7u/6.25u bottom row
+- 2.25/1.25u/2.75u split spacebar
+- 3u/1u/3u split spacebar
+- 10u spacebar
 - VIA and Vial compatible (via the firmware linked above)
 
-<img src="images\MCU_Closeup.png" width="600">
+<img src="files\Connector_Positions.png" width="600">
 
 ---
 
@@ -35,43 +42,41 @@ Firmware: https://github.com/ShentoBento/Velvet-Pro-PCB-Firmware
 
 ## Opening the project
 
-1. Clone or download this repo.
-2. Open `VP_Solder_KiCad/VP_Solder.kicad_pro` in KiCad.
+1. Clone or download this whole repo (not just the specific pcb folder).
+2. Open `Uni60_Solder_KiCad/Uni60_Solder.KiCad_pro` in KiCad.
 
 The library paths are stored relative to the project folder, so the repo works
 from any location on any operating system. If KiCad reports missing symbols or
 footprints, the most likely cause is that the `shentobento_kicad_library/`
-folder was not cloned alongside `VP_Solder_KiCad/`.
+folder was not cloned alongside.
 
 ---
 
 ## What's in this repo
 
-### `VP_Solder_KiCad/`
+### `Uni60_Solder_KiCad/`
 
 The KiCad project. These are the files you edit.
 
 | File | What it is |
 |---|---|
-| `VP_Solder.kicad_pro` | Project file — **open this one** |
-| `VP_Solder.kicad_sch` | Schematic |
-| `VP_Solder.kicad_pcb` | Board layout |
+| `Uni60_Solder.kicad_pro` | Project file — **open this one** |
+| `Uni60_Solder.kicad_sch` | Schematic |
+| `Uni60_Solder.kicad_pcb` | Board layout |
 | `fp-lib-table`, `sym-lib-table` | Point KiCad at the bundled library |
 | `fabrication-toolkit-options.json` | Settings for the JLCPCB fabrication plugin |
 
-### `VP_Solder_KiCad/production/`
+### `Uni60_Solder_KiCad/production/`
 
 Ready-to-order manufacturing files, generated with the JLCPCB Fabrication Toolkit plugin.
 
 | File | Upload it to |
 |---|---|
-| `VP_Solder.zip` | JLCPCB's gerber upload — this is the board itself |
+| `Uni60_Solder.zip` | JLCPCB's gerber upload — this is the board itself |
 | `bom.csv` | Assembly service (which parts) |
 | `positions.csv` | Assembly service (where they go) |
 
-If you modify the design, **regenerate these** rather than reusing them. Stale
-production files that don't match the current board are how wrong PCBs get
-manufactured.
+If you modify the design, **regenerate these** with the JLCPCB Fabrication Toolkit plugin.
 
 ### `shentobento_kicad_library/`
 
@@ -86,14 +91,10 @@ schematic gives you a working part with no footprint assignment step.
 
 This folder is self-contained and can be copied into other keyboard projects.
 
-### `reference files and images`
+### `files and images`
 
-Not needed to build the board — useful if you're modifying the layout.
-
-- `Plate_File_No_Flex_Cuts.dxf` / `Plate_File_with_Flex_Cuts.dxf` — the official
-  Velvet Pro plate files, used to align switch and stabilizer positions
-- `VP PCB DXF.dxf` — the official board outline, thanks to Andykit
-- Various images of the PCB and schematic
+- `Uni60_PCB_Outline.dxf` — outline used for the pcb
+- `JST Position.dxf` — the General-JST connector position
 
 ---
 
@@ -108,5 +109,3 @@ from the KiCad standard libraries.
 
 Modifications made to third-party files are recorded in
 `shentobento_kicad_library/NOTICE.md`.
-
-The Velvet Pro case and plate files are the work of Ampersandy.
