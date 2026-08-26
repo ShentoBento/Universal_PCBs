@@ -15,6 +15,7 @@ Firmware: https://github.com/ShentoBento/Universal_PCBs_Firmware/tree/main/Uni60
 - Solder
 - MCU: STM32F072CBTx
 - 5 JST SH connector positions
+- 1.55mm socket diameters (compatible with millmax)
 - 1 molex pico ezmate connector
 - ISO support
 - Split backspace
