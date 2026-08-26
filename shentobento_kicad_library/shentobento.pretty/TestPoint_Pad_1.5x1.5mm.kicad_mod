@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at -0.892968 1.78576 0)
 		(layer "F.SilkS")
-		(uuid "cb993486-26d8-4e98-94b8-2ae3cc634d44")
+		(uuid "e6e65194-81ff-4149-8540-9377f4000002")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "TestPoint"
 		(at 0 1.75 0)
 		(layer "F.Fab")
-		(uuid "3cb5a04f-5766-4e9c-be86-96079da0e44a")
+		(uuid "44cf4153-f16c-4c66-9b8a-96f29c6aac33")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ae8d0d80-78c7-47bc-83cc-e64c2eb167b7")
+		(uuid "059a506c-04f2-46dc-81ec-dc1c61260228")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "120f2d33-4351-4cb5-a5e8-b1feb880fa95")
+		(uuid "0e77f139-03f5-4c20-a17f-75bc80a94cc4")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -58,24 +58,14 @@
 	(sheetfile "VP_Solder.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
-		(start 0.95 0.95)
-		(end -0.95 0.95)
+		(start -0.95 -0.95)
+		(end 0.95 -0.95)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b9b233a7-f400-4b39-91e4-f1d3c68e76b4")
-	)
-	(fp_line
-		(start 0.95 -0.95)
-		(end 0.95 0.95)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "fecd0d00-7eed-4ed8-b5db-c6444e69eb55")
+		(uuid "3b0617f6-5137-4b94-b2bd-c08ad6e3ff52")
 	)
 	(fp_line
 		(start -0.95 0.95)
@@ -85,47 +75,27 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "87769357-168d-4eb4-ab19-2db923d06bc1")
+		(uuid "0e51a7cc-83a9-49e4-a906-52db23fd18b2")
 	)
 	(fp_line
-		(start -0.95 -0.95)
-		(end 0.95 -0.95)
+		(start 0.95 -0.95)
+		(end 0.95 0.95)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "fd032613-de1e-4ed8-a907-4642d672fc04")
+		(uuid "0da14a8b-cb6c-40fd-8f5f-0ad383ccfba8")
 	)
 	(fp_line
-		(start 1.25 1.25)
-		(end 1.25 -1.25)
+		(start 0.95 0.95)
+		(end -0.95 0.95)
 		(stroke
-			(width 0.05)
+			(width 0.12)
 			(type solid)
 		)
-		(layer "F.CrtYd")
-		(uuid "181ada3c-bd86-4e14-817a-05d655665cea")
-	)
-	(fp_line
-		(start 1.25 1.25)
-		(end -1.25 1.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "adf1aa9f-724a-4819-9d99-d1da20afa436")
-	)
-	(fp_line
-		(start -1.25 -1.25)
-		(end 1.25 -1.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "d536a131-0dfd-4162-bb46-b3e328aa5410")
+		(layer "F.SilkS")
+		(uuid "1e690499-5280-4bb8-9a2c-ceb2b89570d4")
 	)
 	(fp_line
 		(start -1.25 -1.25)
@@ -135,12 +105,42 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "e31ff41f-90a6-4474-a1ff-1d065901aab4")
+		(uuid "107d0b5f-ff53-465d-8e08-fd4c183fb6cc")
+	)
+	(fp_line
+		(start -1.25 -1.25)
+		(end 1.25 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "70b26b94-a145-4295-b9f4-8556cf79bf1c")
+	)
+	(fp_line
+		(start 1.25 1.25)
+		(end -1.25 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "020b02e3-caba-44f4-97dd-d295b7f053cb")
+	)
+	(fp_line
+		(start 1.25 1.25)
+		(end 1.25 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c2b7d1a3-fee1-4a93-a4eb-b0bf82e0469d")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -1.65 0)
 		(layer "F.Fab")
-		(uuid "31e24d6f-6f2c-4dce-ba81-04ccaaf2756f")
+		(uuid "96bcc8f5-93ce-4223-9f2f-da03703edd6f")
 		(effects
 			(font
 				(size 1 1)
@@ -148,11 +148,17 @@
 			)
 		)
 	)
+	(point
+		(at 0 0)
+		(size 1)
+		(layer "Dwgs.User")
+		(uuid "de215145-ca89-40b8-b945-02e288d0e348")
+	)
 	(pad "1" smd rect
 		(at 0 0 180)
 		(size 1.5 1.5)
 		(layers "F.Cu" "F.Mask")
-		(uuid "d16f0ddb-ca4c-4636-8720-e8115a002aaa")
+		(uuid "20f42717-4332-4f03-8eac-67e19fcbf89f")
 	)
 	(embedded_fonts no)
 )
