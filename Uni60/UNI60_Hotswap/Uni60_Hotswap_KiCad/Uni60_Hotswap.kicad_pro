@@ -510,7 +510,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Uni60_Solder.kicad_pro",
+    "filename": "Uni60_Hotswap.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -709,8 +709,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Uni60_Solder.kicad_sch",
-        "name": "Uni60_Solder",
+        "filename": "Uni60_Hotswap.kicad_sch",
+        "name": "Uni60_Hotswap",
         "uuid": "e464f1d1-4c01-4fad-a203-20008a0f30b7"
       }
     ],
@@ -720,7 +720,7 @@
   "sheets": [
     [
       "e464f1d1-4c01-4fad-a203-20008a0f30b7",
-      "Uni60_Solder"
+      "Uni60_Hotswap"
     ]
   ],
   "text_variables": {},
