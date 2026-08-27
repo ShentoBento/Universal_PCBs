@@ -1,6 +1,6 @@
 # Uni60 Solder PCB
 
-<img src="files\Render_Front.png" width="800">
+<img src="images\Render_Front.png" width="800">
 
 A solder PCB designed to fit most JST-dependent 60% Keyboards.
 
@@ -10,7 +10,7 @@ Firmware: https://github.com/ShentoBento/Universal_PCBs_Firmware/tree/main/Uni60
 
 ## Specs
 
-<img src="files\Layout_Options.png" width="600">
+<img src="images\Layout_Options.png" width="600">
 
 - Solder
 - MCU: STM32F072CBTx
@@ -28,7 +28,7 @@ Firmware: https://github.com/ShentoBento/Universal_PCBs_Firmware/tree/main/Uni60
 - 10u spacebar
 - VIA and Vial compatible (via the firmware linked above)
 
-<img src="files\Connector_Positions.png" width="600">
+<img src="images\Connector_Positions.png" width="600">
 
 ---
 
