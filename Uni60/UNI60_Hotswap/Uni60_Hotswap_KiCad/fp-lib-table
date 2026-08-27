@@ -1,4 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "shentobento") (type "KiCad") (uri "${KIPRJMOD}/../shentobento_kicad_library/shentobento.pretty") (options "") (descr ""))
-)
