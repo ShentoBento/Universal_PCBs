@@ -7947,7 +7947,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 167.64 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8650,7 +8650,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 218.44 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -8754,7 +8754,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 147.32 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -8858,7 +8858,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 187.96 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8962,7 +8962,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 208.28 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9147,7 +9147,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 228.6 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9408,7 +9408,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9512,7 +9512,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 157.48 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9858,7 +9858,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 147.32 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -10043,7 +10043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 218.44 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -10145,7 +10145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 274.32 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -10405,7 +10405,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 116.84 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -10602,7 +10602,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 248.92 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10799,7 +10799,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 228.6 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -10903,7 +10903,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 137.16 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -11007,7 +11007,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 137.16 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11855,7 +11855,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 238.76 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12040,7 +12040,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 147.32 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12305,7 +12305,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 157.48 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12407,7 +12407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 264.16 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -12511,7 +12511,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 248.92 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12696,7 +12696,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 177.8 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12881,7 +12881,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 167.64 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13527,7 +13527,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 187.96 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13947,7 +13947,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 248.92 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -14051,7 +14051,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 177.8 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -14155,7 +14155,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 116.84 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -14662,7 +14662,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 167.64 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -14845,7 +14845,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 238.76 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -14949,7 +14949,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 137.16 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -15134,7 +15134,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 218.44 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -15719,7 +15719,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 208.28 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -15904,7 +15904,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 228.6 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -16008,7 +16008,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 248.92 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -16112,7 +16112,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 177.8 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -16216,7 +16216,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 218.44 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -16764,7 +16764,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 137.16 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -16868,7 +16868,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 208.28 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -17052,7 +17052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 198.12 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -17878,7 +17878,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 238.76 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -18296,7 +18296,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 228.6 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -18400,7 +18400,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 167.64 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -18678,7 +18678,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 177.8 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -18782,7 +18782,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 116.84 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -18886,7 +18886,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 187.96 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -19152,7 +19152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 157.48 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -19256,7 +19256,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 198.12 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -19439,7 +19439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 274.32 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -19877,7 +19877,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -19979,7 +19979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 274.32 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -20164,7 +20164,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 187.96 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -20346,7 +20346,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -20804,7 +20804,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 238.76 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -21071,7 +21071,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -21272,7 +21272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 157.48 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -21457,7 +21457,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 218.44 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -21642,7 +21642,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 147.32 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -21746,7 +21746,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -22025,7 +22025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 264.16 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -22210,7 +22210,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 198.12 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -22472,7 +22472,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 116.84 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -22655,7 +22655,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 238.76 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -23077,7 +23077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 264.16 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -23436,7 +23436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 147.32 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -24749,7 +24749,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 208.28 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -25012,7 +25012,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 248.92 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -25115,7 +25115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "shentobento:SW_MX_1.75u_STEPPED_1.25"
+		(property "Footprint" "shentobento:SW_MX_HS_KAILH_1.75u_STEPPED_1.25"
 			(at 102.87 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -25359,7 +25359,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 177.8 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -25544,7 +25544,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 198.12 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -25729,7 +25729,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 116.84 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -26709,7 +26709,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 137.16 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -26906,7 +26906,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 127 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -27569,7 +27569,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "shentobento:D_SOD-123"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 228.6 66.04 0)
 			(hide yes)
 			(show_name no)
