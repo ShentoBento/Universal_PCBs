@@ -1,5 +1,5 @@
 # Universal PCBs
-
+note: this was a draft written by AI, its got a ton of errors and is pending manual changes
 **Open-source, QMK/VIA-compatible keyboard PCBs designed to fit as many cases as possible.**
 
 <img src="Uni60/UNI60_Solder/images/Render_Front.png" width="800">
@@ -12,8 +12,8 @@ Most custom keyboard cases are designed around one specific PCB. The boards in t
 
 | Board | Form factor | Type | Status | Firmware |
 |---|---|---|---|---|
-| [**Uni60 Solder**](Uni60/UNI60_Solder) | 60% | Solder | ✅ Complete. 50-unit production run, Sep 2026 | [Uni60/Solder](https://github.com/ShentoBento/Universal_PCBs_Firmware/tree/main/Uni60/Solder) |
-| [**Uni60 Hotswap**](Uni60/UNI60_Hotswap) | 60% | Hotswap | 🚧 In development | — |
+| [**Uni60 Solder**](Uni60/UNI60_Solder) | 60% | Solder | Completed 50 unit GB, Sep 2026 | [Uni60/Solder](https://github.com/ShentoBento/Universal_PCBs_Firmware/tree/main/Uni60/Solder) |
+| [**Uni60 Hotswap**](Uni60/UNI60_Hotswap) | 60% | Hotswap | In development | — |
 
 Each board's folder has its own README with full specs, layout diagrams and ordering files.
 
